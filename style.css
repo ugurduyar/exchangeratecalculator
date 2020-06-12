@@ -24,6 +24,7 @@ h1 {
 
 p {
   text-align: center;
+  font-weight: bold;
 }
 
 .btn {
@@ -42,6 +43,7 @@ p {
 .currency {
   padding: 25px 0;
   display: flex;
+  font-weight: bold;
   align-items: center;
   justify-content: space-between;
 }
